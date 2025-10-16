@@ -91,9 +91,9 @@ A full-stack application designed to manage materials, track Bill of Materials (
 ## 📫 Contact
 
 - 📧 **Email:** hinkhoa28@gmail.com 
-- 💼 **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)  
+- 💼 **LinkedIn:** https://www.linkedin.com/in/nguy%E1%BB%85n-ph%C3%BAc-%C4%91%C4%83ng-khoa-719800195/ 
 - 🌐 **Portfolio Website:** [your-site.com](https://your-site.com)  
-- 🧰 **GitHub:** [github.com/yourusername](https://github.com/yourusername)
+- 🧰 **GitHub:** https://github.com/khoascada
 
 ---
 
